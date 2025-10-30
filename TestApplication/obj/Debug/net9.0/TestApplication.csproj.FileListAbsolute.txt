@@ -1,0 +1,6 @@
+D:\Github\TestApplication\TestApplication\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github\TestApplication\TestApplication\obj\Debug\net9.0\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\TestApplication\TestApplication\obj\Debug\net9.0\TestApplication.AssemblyInfoInputs.cache
+D:\Github\TestApplication\TestApplication\obj\Debug\net9.0\TestApplication.AssemblyInfo.cs
+D:\Github\TestApplication\TestApplication\obj\Debug\net9.0\TestApplication.csproj.CoreCompileInputs.cache
+D:\Github\TestApplication\TestApplication\obj\Debug\net9.0\TestApplication.MvcApplicationPartsAssemblyInfo.cache
